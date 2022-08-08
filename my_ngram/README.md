@@ -1,5 +1,5 @@
 # Welcome to My Ngram
-***Welcome to the project "My_Ngram" in which I will write a program in C that counts the number of occurrences per character in given strings.
+*** Welcome to the project "My_Ngram" in which I will write a program in C that counts the number of occurrences per character in given strings.
 
 ## Task
 We need to write a program that will count the number of occurrences per character.

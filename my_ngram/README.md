@@ -1,8 +1,7 @@
 # Welcome to My Ngram
-*** Welcome to the project "My_Ngram" in which I will write a program in C that counts the number of occurrences per character in given strings.
 
 ## Task
-We need to write a program that will count the number of occurrences per character.
+We need to write a program in C that will count the number of occurrences per character in given strings.
 
 ## Description
 We have used a simple array of 128 characters (since this is the number of characters in ASCII table that is supported by C language). Each time a character is found in a string, its appropriate index is increased in the array.
